@@ -1,5 +1,5 @@
 ### HOME 
-https://widora.io/tiny200_hmi
+https://widora.io/mangopi_r
 
 ### SCH+PCB Source
 https://oshwhub.com/mangogeek/mangopi-r3
